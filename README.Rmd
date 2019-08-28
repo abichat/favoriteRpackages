@@ -166,7 +166,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [**tidytree**, **treeio** and **ggtree**](https://yulab-smu.github.io/treedata-book/) - Data Integration, Manipulation and Visualization of Phylogenetic Trees
   * [Annotate a phylogenetic tree with insets](https://guangchuangyu.github.io/software/ggtree/vignettes/ggtree-inset.html)
 
-## Programmation
+## Programming
 
 * **[attempt](https://github.com/ColinFay/attempt)** - Tools for Defensive Programming
 * **[casewhen](https://github.com/RLesur/casewhen)** - Create Reusable 'dplyr' 'case_when()' Functions
@@ -190,6 +190,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[pkgdown](https://pkgdown.r-lib.org)** - Make Static HTML Documentation for a Package
 * **[testthat](https://testthat.r-lib.org)** - Unit Testing for R
 * **[usethis](https://usethis.r-lib.org)** - Automate Package and Project Setup
+* **[spelling](https://docs.ropensci.org/spelling)** - Tools for Spell Checking in R
 
 ## Interactivity
 
