@@ -251,6 +251,8 @@
     Tools to Create Design Matrices
   - **[rsamples](https://tidymodels.github.io/rsample/)** - General
     Resampling Infrastructure
+  - **[yardstick](https://tidymodels.github.io/yardstick/)** - Tidy
+    Characterizations of Model Performance
 
 ### Networks and trees
 
@@ -316,6 +318,9 @@
     Notifications
   - **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)**
     - JavaScript Charts Tool
+  - **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions
+    for timing R scripts, as well as implementations of Stack and List
+    structures
   - **[timelineschart](https://github.com/dreamRs/timelineschart)** -
     Timelines Chart Htmlwidget
   - **[telegram.bot](https://ebeneditos.github.io/telegram.bot/)** -
@@ -368,6 +373,8 @@
 
 ## Datasets
 
+  - **[datasaurus](https://itsalocke.com/datasaurus/)** - Datasets from
+    the Datasaurus Dozen
   - **[gapminder](https://github.com/jennybc/gapminder)** - Data from
     Gapminder
   - **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby

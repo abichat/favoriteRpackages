@@ -157,6 +157,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[parsnip](https://tidymodels.github.io/parsnip/)** - A Common API to Modeling and Analysis Functions
 * **[recipes](https://tidymodels.github.io/recipes/)** - Preprocessing Tools to Create Design Matrices
 * **[rsamples](https://tidymodels.github.io/rsample/)** - General Resampling Infrastructure
+* **[yardstick](https://tidymodels.github.io/yardstick/)** - Tidy Characterizations of Model Performance
 
 ### Networks and trees
 
@@ -197,6 +198,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[dadjoke](https://github.com/jhollist/dadjoke)** - Return a Random Dad Joke
 * **[notifier](https://github.com/gaborcsardi/notifier)** - Cross Platform Desktop Notifications
 * **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)** - JavaScript Charts Tool
+* **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions for timing R scripts, as well as implementations of Stack and List structures
 * **[timelineschart](https://github.com/dreamRs/timelineschart)** - Timelines Chart Htmlwidget
 * **[telegram.bot](https://ebeneditos.github.io/telegram.bot/)** - Develop a 'Telegram Bot' with R
 
@@ -235,6 +237,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Datasets
 
+* **[datasaurus](https://itsalocke.com/datasaurus/)** - Datasets from the Datasaurus Dozen
 * **[gapminder](https://github.com/jennybc/gapminder)** - Data from Gapminder
 * **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby Names 1900-2017
 
