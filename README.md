@@ -45,6 +45,8 @@
     Graphics
   - **[ggnewscale](https://eliocamp.github.io/ggnewscale/)** - Multiple
     Fill and Color Scales in ‘ggplot2’
+  - **[ggrepel](https://github.com/slowkow/ggrepel)** - Automatically
+    Position Non-Overlapping Text Labels with ‘ggplot2’
   - **[ggwrap](https://github.com/wilkox/ggwrap)** - Wrap A ‘ggplot2’
     Plot Over Multiple Rows
   - **[patchwork](https://github.com/thomasp85/patchwork)** - The
@@ -219,6 +221,8 @@
 
   - **[caret](http://topepo.github.io/caret/)** - Classification and
     Regression Training
+  - **[factominer](http://factominer.free.fr)** - Multivariate
+    Exploratory Data Analysis and Data Mining
   - **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom
     Distribution Functions
   - **[ranger](https://github.com/imbs-hl/ranger)** - A Fast
@@ -232,6 +236,8 @@
     Automate Data Exploration and Treatment
   - **[janitor](http://sfirke.github.io/janitor/)** - Simple Tools for
     Examining and Cleaning Dirty Data
+  - **[naniar](http://naniar.njtierney.com)** - Data Structures,
+    Summaries, and Visualisations for Missing Data
   - **[summarytools](https://github.com/dcomtois/summarytools)** - Tools
     to Quickly and Neatly Summarize Data
 
@@ -275,6 +281,8 @@
   - **[Rcpp](https://cran.r-project.org/web/packages/Rcpp/)** - Seamless
     R and C++ Integration
       - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
+  - **[renv](https://rstudio.github.io/renv/)** - Project Environments
+    for R
   - **[rlang](https://rlang.r-lib.org)** - Functions for Base Types and
     Core R and ‘Tidyverse’ Features
   - **[strict](https://github.com/hadley/strict)** - Make R Just a
