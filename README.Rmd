@@ -188,9 +188,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[devtools](https://devtools.r-lib.org)** - Tools to Make Developing R Packages Easier
 * **[goodpractice](http://mangothecat.github.io/goodpractice/)** - Advice on R Package Building
 * **[pkgdown](https://pkgdown.r-lib.org)** - Make Static HTML Documentation for a Package
+* **[spelling](https://docs.ropensci.org/spelling)** - Tools for Spell Checking in R
 * **[testthat](https://testthat.r-lib.org)** - Unit Testing for R
 * **[usethis](https://usethis.r-lib.org)** - Automate Package and Project Setup
-* **[spelling](https://docs.ropensci.org/spelling)** - Tools for Spell Checking in R
 
 ## Interactivity
 
