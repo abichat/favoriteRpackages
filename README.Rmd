@@ -141,7 +141,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[factominer](http://factominer.free.fr)** - Multivariate Exploratory Data Analysis and Data Mining
 * **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom Distribution Functions
 * **[ranger](https://github.com/imbs-hl/ranger)** - A Fast Implementation of Random Forests
-* **[PLNodels](http://julien.cremeriefamily.info/PLNmodels/)** - Poisson Lognormal Models
+* **[PLNmodels](http://julien.cremeriefamily.info/PLNmodels/)** - Poisson Lognormal Models
 
 ### Exploratory data analysis
 
