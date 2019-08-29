@@ -219,10 +219,15 @@
 
 ## Statistics
 
+  - **[bigstatsr](https://privefl.github.io/bigstatsr/)** - Statistical
+    Tools for Filebacked Big Matrices
   - **[caret](http://topepo.github.io/caret/)** - Classification and
     Regression Training
   - **[factominer](http://factominer.free.fr)** - Multivariate
     Exploratory Data Analysis and Data Mining
+  - **[mclust](https://mclust-org.github.io/mclust/)** - Gaussian
+    Mixture Modelling for Model-Based Clustering, Classification, and
+    Density Estimation
   - **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom
     Distribution Functions
   - **[ranger](https://github.com/imbs-hl/ranger)** - A Fast
@@ -317,7 +322,10 @@
     Platform Desktop
     Notifications
   - **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)**
-    - JavaScript Charts Tool
+    - JavaScript Charts
+    Tool
+  - **[supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget)**
+    - Supercalifragilistic HTML Calendar Heatmaps
   - **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions
     for timing R scripts, as well as implementations of Stack and List
     structures
@@ -366,6 +374,8 @@
 
 ## For biology
 
+  - **[bigsnpr](https://privefl.github.io/bigsnpr/)** - Analysis of
+    Massive SNP Arrays
   - **[phyloseq](https://joey711.github.io/phyloseq/)** - Handling and
     analysis of high-throughput microbiome census data
   - **[yatah](https://abichat.github.io/yatah/)** - Yet Another TAxonomy
@@ -377,5 +387,7 @@
     the Datasaurus Dozen
   - **[gapminder](https://github.com/jennybc/gapminder)** - Data from
     Gapminder
+  - **[nycflights13](https://github.com/hadley/nycflights13)** - Flights
+    that Departed NYC in 2013
   - **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby
     Names 1900-2017
