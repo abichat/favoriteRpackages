@@ -1,7 +1,7 @@
 
 <!-- * **[]()** - -->
 
-# My favorite R packages
+# My favorite R packages <img src='hex.png' align="right" height="240" />
 
 ## Tidyverse
 
@@ -49,6 +49,8 @@
     Position Non-Overlapping Text Labels with ‘ggplot2’
   - **[ggwrap](https://github.com/wilkox/ggwrap)** - Wrap A ‘ggplot2’
     Plot Over Multiple Rows
+  - **[hexSticker](https://github.com/GuangchuangYu/hexSticker)** -
+    Create Hexagon Sticker in R
   - **[patchwork](https://github.com/thomasp85/patchwork)** - The
     Composer of ggplots
   - **[scales](https://scales.r-lib.org)** - Scale Functions for
@@ -232,7 +234,7 @@
     Distribution Functions
   - **[ranger](https://github.com/imbs-hl/ranger)** - A Fast
     Implementation of Random Forests
-  - **[PLNodels](http://julien.cremeriefamily.info/PLNmodels/)** -
+  - **[PLNmodels](http://julien.cremeriefamily.info/PLNmodels/)** -
     Poisson Lognormal Models
 
 ### Exploratory data analysis
@@ -271,7 +273,7 @@
       - [Annotate a phylogenetic tree with
         insets](https://guangchuangyu.github.io/software/ggtree/vignettes/ggtree-inset.html)
 
-## Programmation
+## Programming
 
   - **[attempt](https://github.com/ColinFay/attempt)** - Tools for
     Defensive Programming
@@ -308,6 +310,8 @@
     Advice on R Package Building
   - **[pkgdown](https://pkgdown.r-lib.org)** - Make Static HTML
     Documentation for a Package
+  - **[spelling](https://docs.ropensci.org/spelling)** - Tools for Spell
+    Checking in R
   - **[testthat](https://testthat.r-lib.org)** - Unit Testing for R
   - **[usethis](https://usethis.r-lib.org)** - Automate Package and
     Project Setup

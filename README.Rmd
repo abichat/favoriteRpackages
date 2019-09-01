@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- * **[]()** - -->
 
-# My favorite R packages
+# My favorite R packages <img src='hex.png' align="right" height="240" />
 
 ## Tidyverse
 
@@ -37,6 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[ggnewscale](https://eliocamp.github.io/ggnewscale/)** - Multiple Fill and Color Scales in 'ggplot2'
 * **[ggrepel](https://github.com/slowkow/ggrepel)** - Automatically Position Non-Overlapping Text Labels with 'ggplot2'
 * **[ggwrap](https://github.com/wilkox/ggwrap)** - Wrap A 'ggplot2' Plot Over Multiple Rows
+* **[hexSticker](https://github.com/GuangchuangYu/hexSticker)** - Create Hexagon Sticker in R
 * **[patchwork](https://github.com/thomasp85/patchwork)** - The Composer of ggplots
 * **[scales](https://scales.r-lib.org)** - Scale Functions for Visualization
 * **[showtext](https://github.com/yixuan/showtext)** - Using Fonts More Easily in R Graphs
