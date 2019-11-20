@@ -51,15 +51,19 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[ggecho](https://github.com/coolbutuseless/ggecho)** - GGplot Stat to Duplicate Elements
 * **[ggfittext](https://wilkox.org/ggfittext/)** - Fit Text Inside a Box in 'ggplot2'
 * **[ggforce](https://ggforce.data-imaginist.com)** - Accelerating 'ggplot2'
+* **[gghalves](https://github.com/erocoar/gghalves)** - Compose Half-Half Plots Using Your Favourite Geoms
 * **[ggimage](https://github.com/GuangchuangYu/ggimage)** - Use Image in 'ggplot2'
+* **[ggpointdensity](https://github.com/LKremer/ggpointdensity)** - A Cross Between a 2D Density Plot and a Scatter Plot
 * **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social Science Data with 'ggplot2'
 * **[ggridges](https://github.com/clauswilke/ggridges)** - Ridgeline Plots in 'ggplot2'
 * **[ggtext](https://github.com/clauswilke/ggtext)** - Improved text rendering support for ggplot2
 * **[ggtexture](https://github.com/clauswilke/ggtextures)** - Drawing Textured Rectangles and Bars with grid and ggplot2
 * **[ggwordcloud](https://lepennec.github.io/ggwordcloud/)** - A Word Cloud Geom for 'ggplot2'
+* **[shadowtext](https://github.com/GuangchuangYu/shadowtext)** - Shadow Text Grob and Layer
 * **[treemapify](http://wilkox.org/treemapify/)** - Draw Treemaps in 'ggplot2'
 * **[waffle](https://github.com/hrbrmstr/waffle)** - Create Waffle Chart Visualizations
    * [Building Pictograms](https://rud.is/rpubs/building-pictograms.html), [Building Waffle Charts](https://rud.is/rpubs/building-waffle-charts.html)
+* **[weather](https://github.com/dreamRs/weather)** - Weather Icons
 * **[ungeviz](https://wilkelab.org/ungeviz/)** - Tools for visualizing uncertainty with ggplot2
   * [Visualizing uncertainty with hypothetical outcomes plots](https://resources.rstudio.com/rstudio-conf-2019/visualizing-uncertainty-with-hypothetical-outcomes-plots)
 
@@ -68,6 +72,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * **[bbplot](https://bbc.github.io/rcookbook/)** - Making ggplot Graphics In BBC News Style
 * **[firatheme](https://github.com/vankesteren/firatheme)** - A ggplot2 theme using the Fira Sans font
+* **[fishualize](https://nschiett.github.io/fishualize)** - Color Palettes Based on Fish Species
 * **[gameofthrones](https://github.com/aljrico/gameofthrones)** - Palettes Inspired in the TV Show "Game of Thrones"
 * **[ggexpanse](https://github.com/hrbrmstr/ggexpanse)** - Theme Elements Based On 'The Expanse'
 * **[ggpomological](https://github.com/gadenbuie/ggpomological)** - Pomological plot themes for ggplot2
@@ -79,12 +84,13 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[harrypotter](https://github.com/aljrico/harrypotter)** - Palettes Generated from All "Harry Potter" Movies
 * **[hrbrthemes](https://hrbrmstr.github.io/hrbrthemes/)** - Additional Themes, Theme Components and Utilities for 'ggplot2'
 * **[LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)** - LaCroix Water Color Palettes
+* **[nationalparkcolors](https://github.com/katiejolly/nationalparkcolors)** - National Park Inspired Color Schemes
 * **[NineteenEightyR](https://github.com/m-clark/NineteenEightyR)** - 198R
 * **[paletteer](https://emilhvitfeldt.github.io/paletteer/)** - Comprehensive Collection of Color Palettes
 * **[reasontheme](https://github.com/ReasonFoundation/reasontheme)** - A Reason Pension Integrity Project ggplot theme
 * **[Rokemon](https://github.com/schochastics/Rokemon)** - Pokemon Style Plotting And Data
 * **[see](https://easystats.github.io/see/)** - Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
-* **[tvthemes](https://github.com/Ryo-N7/tvthemes)** - TV Show Themes and Color Palettes for 'ggplot2' Graphics
+* **[tvthemes](https://ryo-n7.github.io/tvthemes/)** - TV Show Themes and Color Palettes for 'ggplot2' Graphics
 * **[urbnthemes](https://urbaninstitute.github.io/urbnthemes/)** - Additional theme and utilities for "ggplot2" in the Urban Institute style
 * **[wesanderson](https://github.com/karthik/wesanderson)** - A Wes Anderson Palette Generator
 
@@ -140,9 +146,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * **[bigstatsr](https://privefl.github.io/bigstatsr/)** - Statistical Tools for Filebacked Big Matrices
 * **[caret](http://topepo.github.io/caret/)** - Classification and Regression Training
+* **[evabic](https://abichat.github.io/evabic/)** - Evaluation of Binary Classifiers
 * **[factominer](http://factominer.free.fr)** - Multivariate Exploratory Data Analysis and Data Mining
 * **[mclust](https://mclust-org.github.io/mclust/)** - Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
 * **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom Distribution Functions
+* **[quantreg](https://CRAN.R-project.org/package=quantreg)** - Quantile Regression
 * **[ranger](https://github.com/imbs-hl/ranger)** - A Fast Implementation of Random Forests
 * **[PLNmodels](http://julien.cremeriefamily.info/PLNmodels/)** - Poisson Lognormal Models
 
@@ -151,6 +159,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[DataExplorer](https://boxuancui.github.io/DataExplorer/)** - Automate Data Exploration and Treatment
 * **[janitor](http://sfirke.github.io/janitor/)** - Simple Tools for Examining and Cleaning Dirty Data
 * **[naniar](http://naniar.njtierney.com)** - Data Structures, Summaries, and Visualisations for Missing Data
+* **[santoku](https://hughjonesd.github.io/santoku/)** - A Versatile Cutting Tool for R
 * **[summarytools](https://github.com/dcomtois/summarytools)** - Tools to Quickly and Neatly Summarize Data
 
 
@@ -174,8 +183,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[attempt](https://github.com/ColinFay/attempt)** - Tools for Defensive Programming
 * **[casewhen](https://github.com/RLesur/casewhen)** - Create Reusable 'dplyr' 'case_when()' Functions
 * **[crayon](https://github.com/r-lib/crayon)** - Colored Terminal Output
+* **[cyclocomp](https://github.com/MangoTheCat/cyclocomp)** - Cyclomatic Complexity of R Code
 * **[furrr](https://davisvaughan.github.io/furrr/)** - Apply Mapping Functions in Parallel using Futures
 * **[future](https://github.com/HenrikBengtsson/future)** - Unified Parallel and Distributed Processing in R for Everyone
+* **[microbenchmark](https://github.com/joshuaulrich/microbenchmark)** - Accurate Timing Functions
 * **[R6](https://r6.r-lib.org)** - Encapsulated Classes with Reference Semantics
 * **[Rcpp](https://cran.r-project.org/web/packages/Rcpp/)** - Seamless R and C++ Integration
   * [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
@@ -200,8 +211,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * **[beepr](https://github.com/rasmusab/beepr)** - Easily Play Notification Sounds on any Platform
 * **[dadjoke](https://github.com/jhollist/dadjoke)** - Return a Random Dad Joke
+* **[DT](https://rstudio.github.io/DT/)** - A Wrapper of the JavaScript Library 'DataTables'
 * **[notifier](https://github.com/gaborcsardi/notifier)** - Cross Platform Desktop Notifications
 * **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)** - JavaScript Charts Tool
+* **[reactable](https://glin.github.io/reactable/)** - Interactive Data Tables Based on 'React Table'
 * **[supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget)** - Supercalifragilistic HTML Calendar Heatmaps
 * **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions for timing R scripts, as well as implementations of Stack and List structures
 * **[timelineschart](https://github.com/dreamRs/timelineschart)** - Timelines Chart Htmlwidget
@@ -243,8 +256,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Datasets
 
+* **[airparis](https://ardata-fr.github.io/airparis/)** - Open Data for Air Quality in Ile-de-France
 * **[datasaurus](https://itsalocke.com/datasaurus/)** - Datasets from the Datasaurus Dozen
 * **[gapminder](https://github.com/jennybc/gapminder)** - Data from Gapminder
 * **[nycflights13](https://github.com/hadley/nycflights13)** - Flights that Departed NYC in 2013
 * **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby Names 1900-2017
+* **[tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/)** - Access the Weekly TidyTuesday Project Dataset
 

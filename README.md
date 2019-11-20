@@ -74,8 +74,12 @@
     Box in ‘ggplot2’
   - **[ggforce](https://ggforce.data-imaginist.com)** - Accelerating
     ‘ggplot2’
+  - **[gghalves](https://github.com/erocoar/gghalves)** - Compose
+    Half-Half Plots Using Your Favourite Geoms
   - **[ggimage](https://github.com/GuangchuangYu/ggimage)** - Use Image
     in ‘ggplot2’
+  - **[ggpointdensity](https://github.com/LKremer/ggpointdensity)** - A
+    Cross Between a 2D Density Plot and a Scatter Plot
   - **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social
     Science Data with ‘ggplot2’
   - **[ggridges](https://github.com/clauswilke/ggridges)** - Ridgeline
@@ -86,6 +90,8 @@
     Textured Rectangles and Bars with grid and ggplot2
   - **[ggwordcloud](https://lepennec.github.io/ggwordcloud/)** - A Word
     Cloud Geom for ‘ggplot2’
+  - **[shadowtext](https://github.com/GuangchuangYu/shadowtext)** -
+    Shadow Text Grob and Layer
   - **[treemapify](http://wilkox.org/treemapify/)** - Draw Treemaps in
     ‘ggplot2’
   - **[waffle](https://github.com/hrbrmstr/waffle)** - Create Waffle
@@ -94,6 +100,7 @@
         Pictograms](https://rud.is/rpubs/building-pictograms.html),
         [Building Waffle
         Charts](https://rud.is/rpubs/building-waffle-charts.html)
+  - **[weather](https://github.com/dreamRs/weather)** - Weather Icons
   - **[ungeviz](https://wilkelab.org/ungeviz/)** - Tools for visualizing
     uncertainty with ggplot2
       - [Visualizing uncertainty with hypothetical outcomes
@@ -105,6 +112,8 @@
     Graphics In BBC News Style
   - **[firatheme](https://github.com/vankesteren/firatheme)** - A
     ggplot2 theme using the Fira Sans font
+  - **[fishualize](https://nschiett.github.io/fishualize)** - Color
+    Palettes Based on Fish Species
   - **[gameofthrones](https://github.com/aljrico/gameofthrones)** -
     Palettes Inspired in the TV Show “Game of Thrones”
   - **[ggexpanse](https://github.com/hrbrmstr/ggexpanse)** - Theme
@@ -126,7 +135,10 @@
   - **[hrbrthemes](https://hrbrmstr.github.io/hrbrthemes/)** -
     Additional Themes, Theme Components and Utilities for ‘ggplot2’
   - **[LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)** -
-    LaCroix Water Color Palettes
+    LaCroix Water Color
+    Palettes
+  - **[nationalparkcolors](https://github.com/katiejolly/nationalparkcolors)**
+    - National Park Inspired Color Schemes
   - **[NineteenEightyR](https://github.com/m-clark/NineteenEightyR)** -
     198R
   - **[paletteer](https://emilhvitfeldt.github.io/paletteer/)** -
@@ -138,7 +150,7 @@
   - **[see](https://easystats.github.io/see/)** - Visualisation Toolbox
     for ‘easystats’ and Extra Geoms, Themes and Color Palettes for
     ‘ggplot2’
-  - **[tvthemes](https://github.com/Ryo-N7/tvthemes)** - TV Show Themes
+  - **[tvthemes](https://ryo-n7.github.io/tvthemes/)** - TV Show Themes
     and Color Palettes for ‘ggplot2’ Graphics
   - **[urbnthemes](https://urbaninstitute.github.io/urbnthemes/)** -
     Additional theme and utilities for “ggplot2” in the Urban Institute
@@ -225,6 +237,8 @@
     Tools for Filebacked Big Matrices
   - **[caret](http://topepo.github.io/caret/)** - Classification and
     Regression Training
+  - **[evabic](https://abichat.github.io/evabic/)** - Evaluation of
+    Binary Classifiers
   - **[factominer](http://factominer.free.fr)** - Multivariate
     Exploratory Data Analysis and Data Mining
   - **[mclust](https://mclust-org.github.io/mclust/)** - Gaussian
@@ -232,6 +246,8 @@
     Density Estimation
   - **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom
     Distribution Functions
+  - **[quantreg](https://CRAN.R-project.org/package=quantreg)** -
+    Quantile Regression
   - **[ranger](https://github.com/imbs-hl/ranger)** - A Fast
     Implementation of Random Forests
   - **[PLNmodels](http://julien.cremeriefamily.info/PLNmodels/)** -
@@ -245,6 +261,8 @@
     Examining and Cleaning Dirty Data
   - **[naniar](http://naniar.njtierney.com)** - Data Structures,
     Summaries, and Visualisations for Missing Data
+  - **[santoku](https://hughjonesd.github.io/santoku/)** - A Versatile
+    Cutting Tool for R
   - **[summarytools](https://github.com/dcomtois/summarytools)** - Tools
     to Quickly and Neatly Summarize Data
 
@@ -281,10 +299,14 @@
     ‘dplyr’ ‘case\_when()’ Functions
   - **[crayon](https://github.com/r-lib/crayon)** - Colored Terminal
     Output
+  - **[cyclocomp](https://github.com/MangoTheCat/cyclocomp)** -
+    Cyclomatic Complexity of R Code
   - **[furrr](https://davisvaughan.github.io/furrr/)** - Apply Mapping
     Functions in Parallel using Futures
   - **[future](https://github.com/HenrikBengtsson/future)** - Unified
     Parallel and Distributed Processing in R for Everyone
+  - **[microbenchmark](https://github.com/joshuaulrich/microbenchmark)**
+    - Accurate Timing Functions
   - **[R6](https://r6.r-lib.org)** - Encapsulated Classes with Reference
     Semantics
   - **[Rcpp](https://cran.r-project.org/web/packages/Rcpp/)** - Seamless
@@ -322,12 +344,16 @@
     Notification Sounds on any Platform
   - **[dadjoke](https://github.com/jhollist/dadjoke)** - Return a Random
     Dad Joke
+  - **[DT](https://rstudio.github.io/DT/)** - A Wrapper of the
+    JavaScript Library ‘DataTables’
   - **[notifier](https://github.com/gaborcsardi/notifier)** - Cross
     Platform Desktop
     Notifications
   - **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)**
-    - JavaScript Charts
-    Tool
+    - JavaScript Charts Tool
+  - **[reactable](https://glin.github.io/reactable/)** - Interactive
+    Data Tables Based on ‘React
+    Table’
   - **[supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget)**
     - Supercalifragilistic HTML Calendar Heatmaps
   - **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions
@@ -387,6 +413,8 @@
 
 ## Datasets
 
+  - **[airparis](https://ardata-fr.github.io/airparis/)** - Open Data
+    for Air Quality in Ile-de-France
   - **[datasaurus](https://itsalocke.com/datasaurus/)** - Datasets from
     the Datasaurus Dozen
   - **[gapminder](https://github.com/jennybc/gapminder)** - Data from
@@ -395,3 +423,5 @@
     that Departed NYC in 2013
   - **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby
     Names 1900-2017
+  - **[tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/)** -
+    Access the Weekly TidyTuesday Project Dataset
