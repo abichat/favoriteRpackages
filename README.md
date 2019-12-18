@@ -41,8 +41,16 @@
     Visualize Your Data Interactively
   - **[extrafont](https://github.com/wch/extrafont)** - Tools for Using
     Fonts
+  - **[factoextra](https://rpkgs.datanovia.com/factoextra)** - Extract
+    and Visualize the Results of Multivariate Data Analyses
+  - **[geofacet](https://hafen.github.io/geofacet)** - ‘ggplot2’
+    Faceting Utilities for Geographical Data
   - **[gganimate](https://gganimate.com)** - A Grammar of Animated
     Graphics
+  - **[ggfortify](https://github.com/sinhrks/ggfortify)** - Data
+    Visualization Tools for Statistical Analysis Results
+  - **[gghighlight](https://yutannihilation.github.io/gghighlight)** -
+    Highlight Lines and Points in ‘ggplot2’
   - **[ggnewscale](https://eliocamp.github.io/ggnewscale/)** - Multiple
     Fill and Color Scales in ‘ggplot2’
   - **[ggrepel](https://github.com/slowkow/ggrepel)** - Automatically
@@ -188,6 +196,8 @@
 
   - **[cssgrid](https://cssgrid.atusy.net)** - Easy CSS Grid Layout For
     R Markdown And Shiny
+  - **[details](https://yonicd.github.io/details)** - Create Details
+    HTML Tag for Markdown and Package Documentation
   - **[icon](https://github.com/mitchelloharawild/icon)** - SVG icons
     for R documents
   - **[rmarkdown](https://rmarkdown.rstudio.com)** - Dynamic Documents
@@ -384,6 +394,9 @@
     RStudio Snippets for Shiny devs
   - **[shinyWidgets](https://dreamrs.github.io/shinyWidgets/)** - Custom
     Inputs Widgets for Shiny
+  - **[vov](https://vov-pkg.netlify.com)** - Shiny CSS Animations
+  - **[waiter](https://github.com/JohnCoene/waiter)** - Loading Screen
+    for ‘Shiny’
 
 ## Web
 
@@ -401,6 +414,16 @@
     messages
   - **[ponyexpress](https://docs.ropensci.org/ponyexpress/)** - Automate
     sending email with ‘Gmail’
+
+## Maths
+
+  - **[deSolve](http://desolve.r-forge.r-project.org)** - Solvers for
+    Initial Value Problems of Differential Equations (‘ODE’, ‘DAE’,
+    ‘DDE’)
+  - **[freealg](https://github.com/RobinHankin/freealg)** - The Free
+    Algebra
+  - **[mvp](https://github.com/RobinHankin/mvp)** - Fast Symbolic
+    Multivariate Polynomials
 
 ## For biology
 
@@ -421,6 +444,8 @@
     Gapminder
   - **[nycflights13](https://github.com/hadley/nycflights13)** - Flights
     that Departed NYC in 2013
+  - **[networkdata](https://github.com/schochastics/networkdata)** -
+    Repository of Network Datasets
   - **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby
     Names 1900-2017
   - **[tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/)** -
