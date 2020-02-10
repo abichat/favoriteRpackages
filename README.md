@@ -3,6 +3,30 @@
 
 # My favorite R packages <img src='hex.png' align="right" height="240" />
 
+  - [Tidyverse](#tidyverse)
+  - [Visualization](#visualization)
+      - [News geoms](#news-geoms)
+      - [Themes](#themes)
+      - [3D](#3d)
+  - [Spatial](#spatial)
+  - [Reporting](#reporting)
+      - [Templates](#templates)
+      - [Tables](#tables)
+  - [Statistics](#statistics)
+      - [Exploratory data analysis](#exploratory-data-analysis)
+      - [Tidymodel](#tidymodel)
+      - [Networks and trees](#networks-and-trees)
+  - [Programming](#programming)
+  - [Package developement](#package-developement)
+  - [Interactivity](#interactivity)
+      - [Shiny](#shiny)
+  - [Web](#web)
+      - [APIs](#apis)
+      - [Mails](#mails)
+  - [Maths](#maths)
+  - [For biology](#for-biology)
+  - [Datasets](#datasets)
+
 ## Tidyverse
 
   - **[dplyr](https://dplyr.tidyverse.org)** - A Grammar of Data
@@ -82,16 +106,22 @@
     Box in ‘ggplot2’
   - **[ggforce](https://ggforce.data-imaginist.com)** - Accelerating
     ‘ggplot2’
+  - **[gggibbous](https://github.com/mnbram/gggibbous)** - Moon Charts,
+    a Pie Chart Alternative
   - **[gghalves](https://github.com/erocoar/gghalves)** - Compose
     Half-Half Plots Using Your Favourite Geoms
   - **[ggimage](https://github.com/GuangchuangYu/ggimage)** - Use Image
     in ‘ggplot2’
+  - **[ggmatrix](https://github.com/houyunhuang/ggmatrix)** - Fast
+    processing of matrix heatmap
   - **[ggpointdensity](https://github.com/LKremer/ggpointdensity)** - A
     Cross Between a 2D Density Plot and a Scatter Plot
   - **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social
     Science Data with ‘ggplot2’
   - **[ggridges](https://github.com/clauswilke/ggridges)** - Ridgeline
     Plots in ‘ggplot2’
+  - **[ggstance](https://github.com/lionel-/ggstance)** - Horizontal
+    ‘ggplot2’ Components
   - **[ggtext](https://github.com/clauswilke/ggtext)** - Improved text
     rendering support for ggplot2
   - **[ggtexture](https://github.com/clauswilke/ggtextures)** - Drawing
@@ -158,6 +188,8 @@
   - **[see](https://easystats.github.io/see/)** - Visualisation Toolbox
     for ‘easystats’ and Extra Geoms, Themes and Color Palettes for
     ‘ggplot2’
+  - **[trekcolors](https://github.com/leonawicz/trekcolors)** - Star
+    Trek Color Palettes
   - **[tvthemes](https://ryo-n7.github.io/tvthemes/)** - TV Show Themes
     and Color Palettes for ‘ggplot2’ Graphics
   - **[urbnthemes](https://urbaninstitute.github.io/urbnthemes/)** -
@@ -227,6 +259,9 @@
     R Markdown
   - **[xaringan](https://github.com/yihui/xaringan)** - Presentation
     Ninja
+  - **[xaringanExtra](https://github.com/gadenbuie/xaringanExtra/)** -
+    Extras And Extensions for Xaringan
+    Slides
   - **[xaringanthemer](https://pkg.garrickadenbuie.com/xaringanthemer/)**
     - Xaringan CSS Theme Generator
 
@@ -247,6 +282,9 @@
     Tools for Filebacked Big Matrices
   - **[caret](http://topepo.github.io/caret/)** - Classification and
     Regression Training
+  - **[dbscan](https://github.com/mhahsler/dbscan)** - Density Based
+    Clustering of Applications with Noise (DBSCAN) and Related
+    Algorithms
   - **[evabic](https://abichat.github.io/evabic/)** - Evaluation of
     Binary Classifiers
   - **[factominer](http://factominer.free.fr)** - Multivariate
@@ -254,6 +292,8 @@
   - **[mclust](https://mclust-org.github.io/mclust/)** - Gaussian
     Mixture Modelling for Model-Based Clustering, Classification, and
     Density Estimation
+  - **[mgcv](https://CRAN.R-project.org/package=mgcv)** - Mixed GAM
+    Computation Vehicle with Automatic Smoothness Estimation
   - **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom
     Distribution Functions
   - **[quantreg](https://CRAN.R-project.org/package=quantreg)** -
@@ -286,6 +326,7 @@
     Tools to Create Design Matrices
   - **[rsamples](https://tidymodels.github.io/rsample/)** - General
     Resampling Infrastructure
+  - **[tune](https://tidymodels.github.io/tune/)** - Tidy Tuning Tools
   - **[yardstick](https://tidymodels.github.io/yardstick/)** - Tidy
     Characterizations of Model Performance
 
@@ -340,6 +381,8 @@
     Developing R Packages Easier
   - **[goodpractice](http://mangothecat.github.io/goodpractice/)** -
     Advice on R Package Building
+  - **[lifecycle](https://lifecycle.r-lib.org)** - Manage the Life Cycle
+    of your Package Functions
   - **[pkgdown](https://pkgdown.r-lib.org)** - Make Static HTML
     Documentation for a Package
   - **[spelling](https://docs.ropensci.org/spelling)** - Tools for Spell
@@ -394,6 +437,8 @@
     RStudio Snippets for Shiny devs
   - **[shinyWidgets](https://dreamrs.github.io/shinyWidgets/)** - Custom
     Inputs Widgets for Shiny
+  - **[sortable](https://rstudio.github.io/sortable)** - Drag-and-Drop
+    in ‘shiny’ Apps with ‘SortableJS’
   - **[vov](https://vov-pkg.netlify.com)** - Shiny CSS Animations
   - **[waiter](https://github.com/JohnCoene/waiter)** - Loading Screen
     for ‘Shiny’
@@ -404,6 +449,10 @@
     HTTP
   - **[qrencoder](https://github.com/hrbrmstr/qrencoder)** - Quick
     Response Code (QR Code) / Matrix Barcode Creator
+
+### APIs
+
+  - **[gh](https://github.com/r-lib/gh)** - ‘GitHub’ ‘API’
   - **[rtweet](https://rtweet.info)** - Collecting Twitter Data
   - **[slackr](https://github.com/hrbrmstr/slackr)** - Send Messages,
     Images, R Objects and Files to ‘Slack’ Channels/Users
