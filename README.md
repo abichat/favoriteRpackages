@@ -16,6 +16,7 @@
       - [Exploratory data analysis](#exploratory-data-analysis)
       - [Tidymodel](#tidymodel)
       - [Networks and trees](#networks-and-trees)
+      - [Time series](#time-series)
   - [Programming](#programming)
   - [Package developement](#package-developement)
   - [Interactivity](#interactivity)
@@ -26,6 +27,7 @@
   - [Maths](#maths)
   - [For biology](#for-biology)
   - [Datasets](#datasets)
+  - [Miscellaneous](#miscellaneous)
 
 ## Tidyverse
 
@@ -98,6 +100,8 @@
 
   - **[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)** -
     Categorical Scatter (Violin Point) Plots
+  - **[ggbump](https://github.com/davidsjoberg/ggbump)** - Bump Chart In
+    GGplot
   - **[ggchicklet](https://cinc.rud.is/web/packages/ggchicklet/)** -
     Create ‘Chicklet’ (Rounded Segmented Column) Charts
   - **[ggecho](https://github.com/coolbutuseless/ggecho)** - GGplot Stat
@@ -342,6 +346,19 @@
       - [Annotate a phylogenetic tree with
         insets](https://guangchuangyu.github.io/software/ggtree/vignettes/ggtree-inset.html)
 
+### Time series
+
+  - **[fable](https://fable.tidyverts.org)** - Forecasting Models for
+    Tidy Time Series
+  - **[fasster](https://github.com/tidyverts/fasster)** - Fast Additive
+    Switching of Seasonality, Trend and Exogenous Regressors
+  - **[feasts](https://feasts.tidyverts.org)** - Feature Extraction And
+    Statistics for Time Series
+  - **[fpp3](https://github.com/robjhyndman/fpp3-package)** - Data for
+    “Forecasting: Principles and Practice” (3rd Edition)
+  - **[tsibble](https://tsibble.tidyverts.org)** - Tidy Temporal Data
+    Frames and Tools
+
 ## Programming
 
   - **[attempt](https://github.com/ColinFay/attempt)** - Tools for
@@ -499,3 +516,10 @@
     Names 1900-2017
   - **[tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/)** -
     Access the Weekly TidyTuesday Project Dataset
+  - **[tsibbledata](https://tsibbledata.tidyverts.org)** - Diverse
+    Datasets for ‘tsibble’
+
+## Miscellaneous
+
+  - **[slider](https://davisvaughan.github.io/slider/)** - Sliding
+    Window Functions
