@@ -86,12 +86,14 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[gghalves](https://github.com/erocoar/gghalves)** - Compose Half-Half Plots Using Your Favourite Geoms
 * **[ggimage](https://github.com/GuangchuangYu/ggimage)** - Use Image in 'ggplot2'
 * **[ggmatrix](https://github.com/houyunhuang/ggmatrix)** - Fast processing of matrix heatmap
+* **[ggpattern](https://coolbutuseless.github.io/package/ggpattern)** - Geoms with Patterns
 * **[ggpointdensity](https://github.com/LKremer/ggpointdensity)** - A Cross Between a 2D Density Plot and a Scatter Plot
 * **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social Science Data with 'ggplot2'
 * **[ggridges](https://github.com/clauswilke/ggridges)** - Ridgeline Plots in 'ggplot2'
 * **[ggstance](https://github.com/lionel-/ggstance)** - Horizontal 'ggplot2' Components
 * **[ggtext](https://github.com/clauswilke/ggtext)** - Improved text rendering support for ggplot2
 * **[ggtexture](https://github.com/clauswilke/ggtextures)** - Drawing Textured Rectangles and Bars with grid and ggplot2
+* **[ggupset](https://github.com/const-ae/ggupset)** - Combination Matrix Axis for 'ggplot2' to Create 'UpSet' Plots
 * **[ggwordcloud](https://lepennec.github.io/ggwordcloud/)** - A Word Cloud Geom for 'ggplot2'
 * **[shadowtext](https://github.com/GuangchuangYu/shadowtext)** - Shadow Text Grob and Layer
 * **[treemapify](http://wilkox.org/treemapify/)** - Draw Treemaps in 'ggplot2'
@@ -109,6 +111,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[fishualize](https://nschiett.github.io/fishualize)** - Color Palettes Based on Fish Species
 * **[gameofthrones](https://github.com/aljrico/gameofthrones)** - Palettes Inspired in the TV Show "Game of Thrones"
 * **[ggexpanse](https://github.com/hrbrmstr/ggexpanse)** - Theme Elements Based On 'The Expanse'
+* **[ggdark](https://github.com/nsgrantham/ggdark)** - Dark Mode for 'ggplot2' Themes
 * **[ggpomological](https://github.com/gadenbuie/ggpomological)** - Pomological plot themes for ggplot2
 * **[ggpubr](https://rpkgs.datanovia.com/ggpubr/)** - 'ggplot2' Based Publication Ready Plots
 * **[ggsci](https://nanx.me/ggsci/)** - Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'
@@ -143,6 +146,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * **[cartography](https://riatelab.github.io/cartography/docs/)** - Thematic Cartography
 * **[countrycode](https://github.com/vincentarelbundock/countrycode/)** - Convert Country Names and Country Codes 
+* **[ggsn](https://github.com/oswaldosantos/ggsn)** - North Symbols and Scale Bars for Maps Created with 'ggplot2' or 'ggmap'
 * **[leaflet](https://rstudio.github.io/leaflet/)** - Create Interactive Web Maps with the JavaScript 'Leaflet' Library
 * **[lwgeom](https://r-spatial.github.io/lwgeom/)** - Bindings to Selected 'liblwgeom' Functions for Simple Features
 * **[sf](https://r-spatial.github.io/sf/)** - Simple Features for R
@@ -152,6 +156,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * **[cssgrid](https://cssgrid.atusy.net)** - Easy CSS Grid Layout For R Markdown And Shiny
 * **[details](https://yonicd.github.io/details)** - Create Details HTML Tag for Markdown and Package Documentation
+* **[downloadthis](https://fmmattioni.github.io/downloadthis)** - Implement Download Buttons in 'rmarkdown'
 * **[icon](https://github.com/mitchelloharawild/icon)** - SVG icons for R documents
 * **[rmarkdown](https://rmarkdown.rstudio.com)** - Dynamic Documents for R
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
@@ -188,6 +193,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * **[factominer](http://factominer.free.fr)** - Multivariate Exploratory Data Analysis and Data Mining
 * **[mclust](https://mclust-org.github.io/mclust/)** - Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
 * **[mgcv](https://CRAN.R-project.org/package=mgcv)** - Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
+* **[mnormt](https://CRAN.R-project.org/package=mnormt)** - mnormt: The Multivariate Normal and t Distributions
 * **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom Distribution Functions
 * **[quantreg](https://CRAN.R-project.org/package=quantreg)** - Quantile Regression
 * **[ranger](https://github.com/imbs-hl/ranger)** - A Fast Implementation of Random Forests

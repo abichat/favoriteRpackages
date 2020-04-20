@@ -118,6 +118,8 @@
     in ‘ggplot2’
   - **[ggmatrix](https://github.com/houyunhuang/ggmatrix)** - Fast
     processing of matrix heatmap
+  - **[ggpattern](https://coolbutuseless.github.io/package/ggpattern)**
+    - Geoms with Patterns
   - **[ggpointdensity](https://github.com/LKremer/ggpointdensity)** - A
     Cross Between a 2D Density Plot and a Scatter Plot
   - **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social
@@ -130,6 +132,8 @@
     rendering support for ggplot2
   - **[ggtexture](https://github.com/clauswilke/ggtextures)** - Drawing
     Textured Rectangles and Bars with grid and ggplot2
+  - **[ggupset](https://github.com/const-ae/ggupset)** - Combination
+    Matrix Axis for ‘ggplot2’ to Create ‘UpSet’ Plots
   - **[ggwordcloud](https://lepennec.github.io/ggwordcloud/)** - A Word
     Cloud Geom for ‘ggplot2’
   - **[shadowtext](https://github.com/GuangchuangYu/shadowtext)** -
@@ -160,6 +164,8 @@
     Palettes Inspired in the TV Show “Game of Thrones”
   - **[ggexpanse](https://github.com/hrbrmstr/ggexpanse)** - Theme
     Elements Based On ‘The Expanse’
+  - **[ggdark](https://github.com/nsgrantham/ggdark)** - Dark Mode for
+    ‘ggplot2’ Themes
   - **[ggpomological](https://github.com/gadenbuie/ggpomological)** -
     Pomological plot themes for ggplot2
   - **[ggpubr](https://rpkgs.datanovia.com/ggpubr/)** - ‘ggplot2’ Based
@@ -222,6 +228,8 @@
     Cartography
   - **[countrycode](https://github.com/vincentarelbundock/countrycode/)**
     - Convert Country Names and Country Codes
+  - **[ggsn](https://github.com/oswaldosantos/ggsn)** - North Symbols
+    and Scale Bars for Maps Created with ‘ggplot2’ or ‘ggmap’
   - **[leaflet](https://rstudio.github.io/leaflet/)** - Create
     Interactive Web Maps with the JavaScript ‘Leaflet’ Library
   - **[lwgeom](https://r-spatial.github.io/lwgeom/)** - Bindings to
@@ -234,6 +242,8 @@
     R Markdown And Shiny
   - **[details](https://yonicd.github.io/details)** - Create Details
     HTML Tag for Markdown and Package Documentation
+  - **[downloadthis](https://fmmattioni.github.io/downloadthis)** -
+    Implement Download Buttons in ‘rmarkdown’
   - **[icon](https://github.com/mitchelloharawild/icon)** - SVG icons
     for R documents
   - **[rmarkdown](https://rmarkdown.rstudio.com)** - Dynamic Documents
@@ -298,6 +308,8 @@
     Density Estimation
   - **[mgcv](https://CRAN.R-project.org/package=mgcv)** - Mixed GAM
     Computation Vehicle with Automatic Smoothness Estimation
+  - **[mnormt](https://CRAN.R-project.org/package=mnormt)** - mnormt:
+    The Multivariate Normal and t Distributions
   - **[pqdr](https://echasnovski.github.io/pdqr/)** - Work with Custom
     Distribution Functions
   - **[quantreg](https://CRAN.R-project.org/package=quantreg)** -
