@@ -12,6 +12,7 @@
   - [Reporting](#reporting)
       - [Templates](#templates)
       - [Tables](#tables)
+  - [Data manipulation](#data-manipulation)
   - [Statistics](#statistics)
       - [Exploratory data analysis](#exploratory-data-analysis)
       - [Tidymodel](#tidymodel)
@@ -27,7 +28,6 @@
   - [Maths](#maths)
   - [For biology](#for-biology)
   - [Datasets](#datasets)
-  - [Miscellaneous](#miscellaneous)
 
 ## Tidyverse
 
@@ -59,6 +59,8 @@
 
 ## Visualization
 
+  - **[aplot](https://github.com/YuLab-SMU/aplot)** - Decorate a
+    ‘ggplot’ with Associated Information
   - **[colorscale](https://github.com/dreamRs/colorscale)** - Create a
     Color Scale From a Single Color
   - **[cowplot](https://wilkelab.org/cowplot/)** - Streamlined Plot
@@ -73,6 +75,10 @@
     Faceting Utilities for Geographical Data
   - **[gganimate](https://gganimate.com)** - A Grammar of Animated
     Graphics
+  - **[gfont](https://dreamrs.github.io/gfonts/)** - Offline ‘Google’
+    Fonts for ‘Markdown’ and ‘Shiny’
+  - **[ggExtra](https://github.com/daattali/ggExtra)** - Add Marginal
+    Histograms to ‘ggplot2’, and More ‘ggplot2’ Enhancements
   - **[ggfortify](https://github.com/sinhrks/ggfortify)** - Data
     Visualization Tools for Statistical Analysis Results
   - **[gghighlight](https://yutannihilation.github.io/gghighlight)** -
@@ -81,12 +87,19 @@
     Fill and Color Scales in ‘ggplot2’
   - **[ggrepel](https://github.com/slowkow/ggrepel)** - Automatically
     Position Non-Overlapping Text Labels with ‘ggplot2’
+  - **[ggvegan](https://gavinsimpson.github.io/ggvegan/)** - ‘ggplot2’
+    Plots for the ‘vegan’ Package
   - **[ggwrap](https://github.com/wilkox/ggwrap)** - Wrap A ‘ggplot2’
     Plot Over Multiple Rows
+  - **[gridtext](https://wilkelab.org/gridtext/)** - Improved Text
+    Rendering Support for ‘Grid’ Graphics
   - **[hexSticker](https://github.com/GuangchuangYu/hexSticker)** -
     Create Hexagon Sticker in R
   - **[patchwork](https://github.com/thomasp85/patchwork)** - The
-    Composer of ggplots
+    Composer of
+    ggplots
+  - **[PlaneGeometry](https://cran.r-project.org/web/packages/PlaneGeometry/)**
+    - Plane Geometry
   - **[scales](https://scales.r-lib.org)** - Scale Functions for
     Visualization
   - **[showtext](https://github.com/yixuan/showtext)** - Using Fonts
@@ -98,6 +111,10 @@
 
 ### News geoms
 
+  - **[ComplexUpset](https://github.com/krassowski/complex-upset)** -
+    Create Complex UpSet Plots Using ggplot2 Components
+  - **[ganttrify](https://github.com/giocomai/ganttrify)** - Create
+    beautiful Gantt charts with ggplot2
   - **[ggbeeswarm](https://github.com/eclarke/ggbeeswarm)** -
     Categorical Scatter (Violin Point) Plots
   - **[ggbump](https://github.com/davidsjoberg/ggbump)** - Bump Chart In
@@ -116,6 +133,8 @@
     Half-Half Plots Using Your Favourite Geoms
   - **[ggimage](https://github.com/GuangchuangYu/ggimage)** - Use Image
     in ‘ggplot2’
+  - **[ggimg](https://github.com/statsmaths/ggimg)** - Graphics Layers
+    for Plotting Image Data with ‘ggplot2’
   - **[ggmatrix](https://github.com/houyunhuang/ggmatrix)** - Fast
     processing of matrix heatmap
   - **[ggpattern](https://coolbutuseless.github.io/package/ggpattern)**
@@ -124,8 +143,12 @@
     Cross Between a 2D Density Plot and a Scatter Plot
   - **[ggpol](https://github.com/erocoar/ggpol)** - Visualizing Social
     Science Data with ‘ggplot2’
+  - **[ggquadrilateral](https://github.com/const-ae/ggquadrilateral)** -
+    Draw arbitrary quadrilaterals in ‘ggplot2’
   - **[ggridges](https://github.com/clauswilke/ggridges)** - Ridgeline
     Plots in ‘ggplot2’
+  - **[ggsignif](https://github.com/const-ae/ggsignif)** - Significance
+    Brackets for ‘ggplot2’
   - **[ggstance](https://github.com/lionel-/ggstance)** - Horizontal
     ‘ggplot2’ Components
   - **[ggtext](https://github.com/clauswilke/ggtext)** - Improved text
@@ -136,8 +159,12 @@
     Matrix Axis for ‘ggplot2’ to Create ‘UpSet’ Plots
   - **[ggwordcloud](https://lepennec.github.io/ggwordcloud/)** - A Word
     Cloud Geom for ‘ggplot2’
+  - **[parttree](https://github.com/grantmcdermott/parttree)** - Simple
+    functions for plotting 2D decision tree partition plots
   - **[shadowtext](https://github.com/GuangchuangYu/shadowtext)** -
     Shadow Text Grob and Layer
+  - **[superheat](https://github.com/rlbarter/superheat)** - A Graphical
+    Tool for Exploring Complex Datasets Using Heatmaps
   - **[treemapify](http://wilkox.org/treemapify/)** - Draw Treemaps in
     ‘ggplot2’
   - **[waffle](https://github.com/hrbrmstr/waffle)** - Create Waffle
@@ -154,6 +181,8 @@
 
 ### Themes
 
+  - **[basetheme](https://github.com/KKPMW/basetheme)** - Themes for
+    Base Graphics Plots
   - **[bbplot](https://bbc.github.io/rcookbook/)** - Making ggplot
     Graphics In BBC News Style
   - **[firatheme](https://github.com/vankesteren/firatheme)** - A
@@ -198,6 +227,8 @@
   - **[see](https://easystats.github.io/see/)** - Visualisation Toolbox
     for ‘easystats’ and Extra Geoms, Themes and Color Palettes for
     ‘ggplot2’
+  - **[thematic](https://rstudio.github.io/thematic/)** - Unified and
+    Automatic Theming of ‘ggplot2’, ‘lattice’, and ‘base’ R Graphics
   - **[trekcolors](https://github.com/leonawicz/trekcolors)** - Star
     Trek Color Palettes
   - **[tvthemes](https://ryo-n7.github.io/tvthemes/)** - TV Show Themes
@@ -244,12 +275,22 @@
     HTML Tag for Markdown and Package Documentation
   - **[downloadthis](https://fmmattioni.github.io/downloadthis)** -
     Implement Download Buttons in ‘rmarkdown’
+  - **[encryptedRmd](https://github.com/dirkschumacher/encryptedRmd)** -
+    Encrypt Html Reports Using ‘Libsodium’
+  - **[flair](https://kbodwin.github.io/flair/)** - Highlight, Annotate,
+    and Format your R Source Code
+  - **[grillade](https://dreamrs.github.io/grillade/)** - Grid System
+    for the Web
   - **[icon](https://github.com/mitchelloharawild/icon)** - SVG icons
     for R documents
   - **[rmarkdown](https://rmarkdown.rstudio.com)** - Dynamic Documents
     for R
-      - [R Markdown: The Definitive
+      - [R markdown: The Definitive
         Guide](https://bookdown.org/yihui/rmarkdown/)
+  - **[tweetrmd](https://github.com/gadenbuie/tweetrmd)** - Embed Tweets
+    in R Markdown
+  - **[workflowr](https://jdblischak.github.io/workflowr)** - A
+    Framework for Reproducible and Collaborative Data Science
 
 ### Templates
 
@@ -261,6 +302,11 @@
     Format for Scientific and Technical Writing
   - **[officer](https://davidgohel.github.io/officer/)** - Manipulation
     of Microsoft Word and PowerPoint Documents
+  - **[omni](https://rfortherestofus.github.io/omni)** - RMarkdown
+    template, ggplot2 theme, and table function for OMNI Institute
+  - **[particlesjs](https://github.com/dreamRs/particlesjs)** -
+    Beautiful Background for ‘Shiny’ Applications and ‘RMarkdown’
+    Documents
   - **[rolldown](https://github.com/yihui/rolldown)** - R Markdown
     Output Formats for Storytelling
   - **[thesisdown](https://github.com/ismayc/thesisdown)** - An updated
@@ -289,6 +335,23 @@
     Complex Table with ‘kable’ and Pipe Syntax
   - **[rhandsontable](http://jrowen.github.io/rhandsontable/)** -
     Interface to the ‘Handsontable.js’ Library
+
+## Data manipulation
+
+  - **[anytime](https://github.com/eddelbuettel/anytime)** - Anything to
+    ‘POSIXct’ or ‘Date’ Converter
+  - **[batman](https://github.com/Ironholds/batman)** - Convert
+    categorical representations of logicals to actual logicals
+  - **[janitor](http://sfirke.github.io/janitor/)** - Simple Tools for
+    Examining and Cleaning Dirty Data
+  - **[poorman](https://github.com/nathaneastwood/poorman)** - A Poor
+    Man’s Base R Copy of ‘dplyr’ Verbs
+  - **[RVerbalExpressions](https://rverbalexpressions.netlify.app)** -
+    Create Regular Expressions Easily
+  - **[santoku](https://hughjonesd.github.io/santoku/)** - A Versatile
+    Cutting Tool for R
+  - **[slider](https://davisvaughan.github.io/slider/)** - Sliding
+    Window Functions
 
 ## Statistics
 
@@ -323,28 +386,41 @@
 
   - **[DataExplorer](https://boxuancui.github.io/DataExplorer/)** -
     Automate Data Exploration and Treatment
-  - **[janitor](http://sfirke.github.io/janitor/)** - Simple Tools for
-    Examining and Cleaning Dirty Data
   - **[naniar](http://naniar.njtierney.com)** - Data Structures,
     Summaries, and Visualisations for Missing Data
-  - **[santoku](https://hughjonesd.github.io/santoku/)** - A Versatile
-    Cutting Tool for R
   - **[summarytools](https://github.com/dcomtois/summarytools)** - Tools
     to Quickly and Neatly Summarize Data
 
 ### Tidymodel
 
+  - **[baguette](https://baguette.tidymodels.org)** - Efficient Model
+    Functions for Bagging
   - **[broom](https://broom.tidyverse.org)** - Convert Statistical
     Analysis Objects into Tidy Tibbles
+  - **[corrr](https://corrr.tidymodels.org)** - Correlations in R
+  - **[dials](https://dials.tidymodels.org)** - Tools for Creating
+    Tuning Parameter Values
+  - **[discrim](https://discrim.tidymodels.org)** - Model Wrappers for
+    Discriminant Analysis
   - **[parsnip](https://tidymodels.github.io/parsnip/)** - A Common API
     to Modeling and Analysis Functions
+  - **[plsmod](https://plsmod.tidymodels.org)** - Model Wrappers for
+    Projection Methods
+  - **[poissonreg](https://poissonreg.tidymodels.org)** - Model Wrappers
+    for Poisson Regression
   - **[recipes](https://tidymodels.github.io/recipes/)** - Preprocessing
     Tools to Create Design Matrices
   - **[rsamples](https://tidymodels.github.io/rsample/)** - General
     Resampling Infrastructure
+  - **[textrecipes](https://textrecipes.tidymodels.org)** - Extra
+    ‘Recipes’ for Text Processing
+  - **[themis](https://tidymodels.github.io/themis/)** - Extra Recipes
+    Steps for Dealing with Unbalanced Data
   - **[tune](https://tidymodels.github.io/tune/)** - Tidy Tuning Tools
   - **[yardstick](https://tidymodels.github.io/yardstick/)** - Tidy
     Characterizations of Model Performance
+  - **[workflows](https://workflows.tidymodels.org)** - Modeling
+    Workflows
 
 ### Networks and trees
 
@@ -368,6 +444,8 @@
     Statistics for Time Series
   - **[fpp3](https://github.com/robjhyndman/fpp3-package)** - Data for
     “Forecasting: Principles and Practice” (3rd Edition)
+  - **[prophet](https://facebook.github.io/prophet/)** - Automatic
+    Forecasting Procedure
   - **[tsibble](https://tsibble.tidyverts.org)** - Tidy Temporal Data
     Frames and Tools
 
@@ -406,6 +484,8 @@
   - **[chameleon](https://thinkr-open.github.io/chameleon/)** - Build
     And Highlight Package Documentation With Customized Templates
   - **[covr](https://covr.r-lib.org)** - Test Coverage for Packages
+  - **[deepdep](https://dominikrafacz.github.io/deepdep/)** - Visualise
+    and Explore the Deep Dependencies of R Packages
   - **[devtools](https://devtools.r-lib.org)** - Tools to Make
     Developing R Packages Easier
   - **[goodpractice](http://mangothecat.github.io/goodpractice/)** -
@@ -419,6 +499,8 @@
   - **[testthat](https://testthat.r-lib.org)** - Unit Testing for R
   - **[usethis](https://usethis.r-lib.org)** - Automate Package and
     Project Setup
+  - **[vdiffr](https://github.com/r-lib/vdiffr)** - Visual Regression
+    Testing and Graphical Diffing
 
 ## Interactivity
 
@@ -434,8 +516,9 @@
   - **[rAmCharts](http://datastorm-open.github.io/introduction_ramcharts/)**
     - JavaScript Charts Tool
   - **[reactable](https://glin.github.io/reactable/)** - Interactive
-    Data Tables Based on ‘React
-    Table’
+    Data Tables Based on ‘React Table’
+  - **[markdownInput](https://github.com/juliendiot42/markdownInput)** -
+    <https://github.com/juliendiot42/markdownInput>
   - **[supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget)**
     - Supercalifragilistic HTML Calendar Heatmaps
   - **[tictoc](http://collectivemedia.github.io/tictoc/)** - Functions
@@ -509,6 +592,10 @@
     Massive SNP Arrays
   - **[phyloseq](https://joey711.github.io/phyloseq/)** - Handling and
     analysis of high-throughput microbiome census data
+  - **[tidygenomics](https://const-ae.github.io/tidygenomics/)** - Tidy
+    Verbs for Dealing with Genomic Data Frames
+  - **[vegan](https://github.com/vegandevs/vegan)** - Community Ecology
+    Package
   - **[yatah](https://abichat.github.io/yatah/)** - Yet Another TAxonomy
     Handler
 
@@ -516,22 +603,25 @@
 
   - **[airparis](https://ardata-fr.github.io/airparis/)** - Open Data
     for Air Quality in Ile-de-France
+  - **[animalcrossing](https://github.com/chendaniely/animalcrossing)**
+    - Animal Crossing data
+  - **[coronavirus](https://ramikrispin.github.io/coronavirus/)** - The
+    2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset
   - **[datasaurus](https://itsalocke.com/datasaurus/)** - Datasets from
     the Datasaurus Dozen
   - **[gapminder](https://github.com/jennybc/gapminder)** - Data from
     Gapminder
+  - **[inca3](https://thinkr-open.github.io/inca3/)** - Donnees De
+    L’Etude INCA 3
   - **[nycflights13](https://github.com/hadley/nycflights13)** - Flights
     that Departed NYC in 2013
   - **[networkdata](https://github.com/schochastics/networkdata)** -
     Repository of Network Datasets
   - **[prenoms](https://github.com/ThinkR-open/prenoms)** - French Baby
     Names 1900-2017
+  - **[tdf](https://github.com/alastairrushworth/tdf)** - Tour de France
+    data
   - **[tidytuesdayR](https://thebioengineer.github.io/tidytuesdayR/)** -
     Access the Weekly TidyTuesday Project Dataset
   - **[tsibbledata](https://tsibbledata.tidyverts.org)** - Diverse
     Datasets for ‘tsibble’
-
-## Miscellaneous
-
-  - **[slider](https://davisvaughan.github.io/slider/)** - Sliding
-    Window Functions
